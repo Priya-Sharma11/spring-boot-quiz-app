@@ -33,13 +33,12 @@ This is a simple quiz application built with **Spring Boot**. The application al
 
 ##Steps to Set Up
 1. Clone the Repository
-
-`git clone https://github.com/<your-username>/quiz-application.git  
-`
-
-`
+```
+git clone https://github.com/<your-username>/quiz-application.git  
+```
+```
 cd quiz-application
-`
+```
 2. Build the Project
 - Use Maven to build the project: 
 `mvn clean install`
@@ -58,6 +57,11 @@ cd quiz-application
 - Username: 
 - Password: 
 - Click Connect to view the tables and data.
+
+![Database connection](https://github.com/user-attachments/assets/8d595abc-ec4b-434c-a5e8-a82b719be61f)
+
+![Tables show](https://github.com/user-attachments/assets/92f500bc-3491-4c70-b0d1-0f46d801fe0b)
+
 
 ##Testing the APIs
 You can use Postman (or any API testing tool) to test the application. Below are the API endpoints and how to use them:
